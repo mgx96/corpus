@@ -1,6 +1,6 @@
 # Corpus
 
-Corpus is a curated database of smart contract and distributed ledger vulnerabilities, organized around the one thing that matters most when a system fails: the invariant that was broken.
+Corpus is a curated database of smart contract and distributed ledger vulnerabilities, organized around the one thing that matters most when a system fails: the invariant that was broken
 
 Most security resources give you a pile of disconnected bug reports. Corpus does something different. It treats every vulnerability as a case study in a broken assumption, indexes it by root cause, and pairs the human reasoning with a runnable reproduction so you can see the failure happen rather than just read about it.
 
